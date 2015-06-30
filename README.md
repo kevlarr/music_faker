@@ -9,13 +9,16 @@ faker-type gem for musical instruments, brands, bands, etc
 ```ruby
 require 'music_faker'
 
-# Generate random instrument name
+# Generate instrument name
 MusicFaker::Instrument.name
 
 => 'Fibson Less Haul'
 
-# Generate random band name
+# Generate band name
 MusicFaker::Band.name
 
 => 'Ja-Va and the Skrizzips'
 ```
+
+---
+link to [music_faker](https://rubygems.org/gems/music_faker) on RubyGems
